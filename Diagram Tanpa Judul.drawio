@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T07:17:27.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WorgSW84jbpFzTbehXv3" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T10:01:48.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xEgjMjidOuJLGs0Piae5" version="21.3.2" type="github">
   <diagram name="Halaman-1" id="0R4BsoaivvHy4NkqvmWP">
-    <mxGraphModel dx="1200" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1725" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="HxtZCyK_g-6vB8FXcNJ6-1" value="pengurus" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HxtZCyK_g-6vB8FXcNJ6-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HxtZCyK_g-6vB8FXcNJ6-4" target="HxtZCyK_g-6vB8FXcNJ6-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxtZCyK_g-6vB8FXcNJ6-4" value="Mengelola" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="80" height="40" as="geometry" />
@@ -106,8 +109,8 @@
         <mxCell id="HxtZCyK_g-6vB8FXcNJ6-48" value="Melihat" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-20" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HxtZCyK_g-6vB8FXcNJ6-51" value="pengurus" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="410" y="114" width="100" height="40" as="geometry" />
+        <mxCell id="HxtZCyK_g-6vB8FXcNJ6-51" value="anggota" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxtZCyK_g-6vB8FXcNJ6-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HxtZCyK_g-6vB8FXcNJ6-53" target="HxtZCyK_g-6vB8FXcNJ6-51">
           <mxGeometry relative="1" as="geometry" />
