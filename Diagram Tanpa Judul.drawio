@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T16:04:30.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tifIB3MotJS5oWy1RWyt" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T16:18:23.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kAyRkoJFL8NtJ7GSuKd9" version="21.5.2" type="github">
   <diagram name="Halaman-1" id="0R4BsoaivvHy4NkqvmWP">
-    <mxGraphModel dx="3850" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,12 +490,6 @@
         </mxCell>
         <mxCell id="T9FW8MjMHzxEppgOWQx2-192" value="mengelola" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-520" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T9FW8MjMHzxEppgOWQx2-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxtZCyK_g-6vB8FXcNJ6-23" target="HxtZCyK_g-6vB8FXcNJ6-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T9FW8MjMHzxEppgOWQx2-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T9FW8MjMHzxEppgOWQx2-83" target="T9FW8MjMHzxEppgOWQx2-83">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T9FW8MjMHzxEppgOWQx2-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T9FW8MjMHzxEppgOWQx2-233" target="T9FW8MjMHzxEppgOWQx2-52">
           <mxGeometry relative="1" as="geometry">
